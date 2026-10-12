@@ -1,0 +1,3 @@
+this file has the data about the employees
+name:nova
+salary: 25000
