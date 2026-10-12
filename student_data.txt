@@ -1,0 +1,5 @@
+this file will have my personal informations
+
+name: Arjunbabu.S.S
+
+skills: python,sql,web technologies and generative AI
